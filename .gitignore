@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets & Weights
+datasets/*
+!datasets/.gitkeep
+models/*
+!models/.gitkeep
+*.pt
+*.onnx
+*.engine
+*.pdparams
+*.pdmodel
+
+# Media Inputs/Outputs
+videos/input/*
+!videos/input/.gitkeep
+videos/output/*
+!videos/output/.gitkeep
+
+# Testing & Logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
