@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# High-Performance CPU Automatic License Plate Recognition (ALPR) v2
+Automatic License Plate Recognition (ALPR)
 
 A high-speed, CPU-optimized Automatic License Plate Recognition (ALPR) system focused on real-time video playback, accurate long-distance detection, blur filtering, OCR caching, and annotated video generation.
 
