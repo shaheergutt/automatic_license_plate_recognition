@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # High-Performance CPU Automatic License Plate Recognition (ALPR) v2
 
 A high-speed, CPU-optimized Automatic License Plate Recognition (ALPR) system focused on real-time video playback, accurate long-distance detection, blur filtering, OCR caching, and annotated video generation.
@@ -115,3 +116,7 @@ python run.py --video videos/input/1.mp4 --benchmark
   - Average FPS
   - Frames Processed
   - Unique Plates Detected (with confidence score and Track ID)
+=======
+# automatic_license_plate_recognition
+Automatic License Plate Recognition (ALPR) system that detects license plates from videos, extracts plate numbers using OCR, and generates annotated output videos.
+>>>>>>> 3845f6de49a67a348b3b13727e1db151b63760c1
